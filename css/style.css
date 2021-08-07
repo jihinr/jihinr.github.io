@@ -796,7 +796,7 @@ hr.dottad_border {
 
 .bg_load {
 	float: left;
-	position: fixed;
+	position: absolute;
 	width: 100%;
 	text-align: center;
 	height: 100%;
