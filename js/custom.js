@@ -11,7 +11,7 @@ new WOW().init();
 /**== loader js ==*/
 
 $(window).load(function () {
-    $(".bg_load").fadeOut("slow");
+    $(".bg_load").hide("slow");
 })
 
 /**== Menu js ==**/
